@@ -23,9 +23,9 @@ $INSBASE
   9
 $EXTMIN
  10
-101
+0
  20
-45.92968950468334
+0
  30
 0
   9
@@ -33,7 +33,7 @@ $EXTMAX
  10
 248.8912184681701
  20
-149.0879900341294
+141.25
  30
 0
   9
@@ -79,7 +79,7 @@ $ATTMODE
   9
 $TEXTSIZE
  40
-1
+2.5
   9
 $TRACEWID
  40
@@ -87,7 +87,7 @@ $TRACEWID
   9
 $TEXTSTYLE
   7
-Standard
+STANDARD
   9
 $CLAYER
   8
@@ -95,7 +95,7 @@ $CLAYER
   9
 $CELTYPE
   6
-ByLayer
+BYLAYER
   9
 $CECOLOR
  62
@@ -255,7 +255,7 @@ $DIMBLK2
   9
 $DIMSTYLE
   2
-Standard
+STANDARD
   9
 $DIMCLRD
  70
@@ -327,7 +327,7 @@ $DIMALTTD
   9
 $DIMTXSTY
   7
-Standard
+STANDARD
   9
 $DIMAUNIT
  70
@@ -359,7 +359,7 @@ $DIMFRAC
   9
 $DIMLDRBLK
   1
-
+STANDARD
   9
 $DIMLUNIT
  70
@@ -507,7 +507,7 @@ $SPLFRAME
   9
 $SPLINETYPE
  70
-    6
+    2
   9
 $SPLINESEGS
  70
@@ -800,10 +800,6 @@ $PEXTMAX
 0
  30
 0
-  9
-$GRIDMODE
- 70
-    1
   9
 $SNAPSTYLE
  70
@@ -1115,9 +1111,9 @@ AcDbViewportTableRecord
  21
 1
  12
-165.3683107208607
+75.72175773375376
  22
-100.6302503321349
+78.18796697236817
  13
 0
  23
@@ -1143,7 +1139,7 @@ AcDbViewportTableRecord
  37
 0
  40
-179.2407522327305
+49.56776099338606
  41
 1.907862407862408
  42
@@ -2389,7 +2385,7 @@ Standard
  70
     0
  40
-2.5
+1
  41
 0.1
  42
@@ -2413,7 +2409,7 @@ Standard
 141
 0.09
 142
-0
+2.5
 143
 25.4
 144
@@ -2441,7 +2437,7 @@ Standard
  77
     0
  78
-    8
+    1
  79
     0
 170
@@ -2479,7 +2475,7 @@ Standard
 277
     2
 278
-   44
+    0
 279
     0
 280
@@ -2501,7 +2497,7 @@ Standard
 289
     3
 340
-Standard
+standard
 341
 
 371
@@ -2772,50 +2768,6 @@ AcDbArc
 180
  51
 270
-  0
-CIRCLE
-  5
-52
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-149.7901563578929
- 20
-117.1614450483806
- 40
-14.29920206040463
-  0
-CIRCLE
-  5
-53
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-121.189579933922
- 20
-128.8984101002074
- 40
-20.18957993392199
   0
 ENDSEC
   0
